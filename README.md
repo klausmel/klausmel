@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Klaus
-- 👀 I’m interested in Cibersecurity, AI, and basically Software Developement.
+- 👀 I’m interested in Cibersecurity - AI and basically Software Developement.
 - 🌱 I’m currently learning Cibersecurity (TryHackme - Udemy), Software Developement (C - Python - C++ - Haskell - Pascal)
 - 💞️ I’m looking to collaborate on "Everything" :)
 - 📫 How to reach me :
