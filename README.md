@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Klaus
-- 👀 I’m interested in Cibersecurity - AI and basically Software Developement.
-- 🌱 I’m currently learning Cibersecurity (TryHackme - Udemy), Software Developement (C - Python - C++ - Haskell - Pascal)
-- 💞️ I’m looking to collaborate on "Everything" :)
+- 👀 I’m interested in Cibersecurity - web / software developement.
+- 🌱 I’m currently learning Cibersecurity (TryHackme - Udemy), Software Developement (C - Python - C++ - Java - JavaScript - Angular - Vue)
 - 📫 How to reach me :
 Linkedln : https://www.linkedin.com/in/claudio-mart%C3%ADnez-melero-bba28a200/
 
