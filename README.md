@@ -24,6 +24,6 @@ Welcome to my GitHub profile! I am a Master's student with a strong passion for 
 ## Let's Connect! 🤝
 
 * I am open to collaborating on challenging projects and learning from experienced professionals.
-* If you have any questions or would like to discuss potential opportunities, please feel free to reach out to me via [LinkedIn](your_linkedin_link) or email at [your_email_address].
+* If you have any questions or would like to discuss potential opportunities, please feel free to reach out to me via [LinkedIn]([your_linkedin_link](https://www.linkedin.com/in/claudio-mart%C3%ADnez-melero/)) or email at [claudio.martmel@gmail.com].
 
 Thank you for visiting my profile! 😄
